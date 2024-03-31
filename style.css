@@ -554,7 +554,7 @@ table.bgdesign tbody td {
    user-select:none;
    -webkit-user-select:none;
    width:12px;
-   font-size:12px;
+   font-size:14px;
    cursor:pointer;
    color:#467673; /* play & pause button color */
 }
@@ -606,7 +606,7 @@ table.bgdesign tbody td {
    background:#transparent; 
    border-radius:0 0 3px 3px;
    font-family:consolas-alt;
-   font-size:10px;
+   font-size:14px;
    line-height:1em;
    color:#467673; 
    overflow:hidden;
